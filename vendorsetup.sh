@@ -1,0 +1,2 @@
+add_lunch_combo omni_serranodsdd-eng
+add_lunch_combo omni_serranodsdd-userdebug
